@@ -1,0 +1,7 @@
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/DNWASinope
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/appsettings.Development.json
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/appsettings.json
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/DNWASinope.dll
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/DNWASinope.deps.json
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/DNWASinope.runtimeconfig.json
+/home/sinope/Documents/AppServiceAzurePractices/DNWASinope/bin/Release/net8.0/publish/DNWASinope.pdb
